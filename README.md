@@ -1,6 +1,10 @@
 # BoxRFID-Touch – Standalone RFID Tag Tool for QIDI Box
 
-<img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/Home.jpeg?raw=true" height="200">
+<p align="center">
+  <a href="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/Home.jpeg">
+    <img src="https://raw.githubusercontent.com/TinkerBarn/BoxRFID-Touch/main/screenshots/Home.jpeg" height="320" alt="BoxRFID-Touch Home Screen">
+  </a>
+</p>
 
 BoxRFID-Touch is a standalone touchscreen device for reading and writing NFC/RFID filament tags used by **QIDI Box**. It runs on an **ESP32-2432S028R CYD** with a **PN532** reader and lets you create or modify tag data directly on the device — no PC required during normal use.
 
