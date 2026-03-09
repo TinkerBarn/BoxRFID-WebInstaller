@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BoxRFID Web Installer</title>
+  <script type="module" src="https://unpkg.com/esp-web-tools@10/dist/web/install-button.js?module"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.5;
+    }
+    h1 {
+      margin-bottom: 10px;
+    }
+    .box {
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      padding: 20px;
+      margin-top: 20px;
+    }
+    code {
+      background: #f3f3f3;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+    ul {
+      margin-top: 8px;
+    }
+  </style>
+</head>
+<body>
+  <h1>BoxRFID Web Installer</h1>
+  <p>Mit diesem Installer kannst du die BoxRFID-Firmware direkt über den Browser auf dein ESP32-Board installieren.</p>
+
+  <div class="box">
+    <h2>Installation</h2>
+    <p>
+      Unterstütztes Board:<br>
+      <strong>ESP32-2432S028R (CYD) – BoxRFID V2.0</strong>
+    </p>
+
+    <esp-web-install-button manifest="manifest.json"></esp-web-install-button>
+
+    <p><strong>Wichtige Hinweise:</strong></p>
+    <ul>
+      <li>Verwende <strong>Chrome</strong> oder <strong>Edge</strong>.</li>
+      <li>Verwende ein <strong>datenfähiges USB-Kabel</strong>.</li>
+      <li>Falls keine Verbindung möglich ist, Board neu anstecken und erneut versuchen.</li>
+      <li>Falls nötig, beim Verbinden die <strong>BOOT-Taste</strong> gedrückt halten.</li>
+      <li>Mit der Installation wird die Firmware auf dem Gerät überschrieben.</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h2>Firmware</h2>
+    <p>
+      Version: <strong>2.0</strong><br>
+      Datei: <code>BoxRFID_CYD_ESP32_2432S028R_V2.0.ino.merged.bin</code>
+    </p>
+  </div>
+</body>
+</html>
