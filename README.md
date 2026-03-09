@@ -1,40 +1,50 @@
 # BoxRFID
 
-BoxRFID is a standalone RFID/NFC-based filament tag manager for the **QIDI Box** ecosystem.  
-It is designed to run on an **ESP32-2432S028R CYD (Cheap Yellow Display)** together with a **PN532 NFC reader** and allows you to read, manage and write filament tag information directly on a touchscreen device.
+BoxRFID is a standalone RFID tag tool for creating and managing RFID filament tags for the **QIDI Box** ecosystem.
 
-BoxRFID is intended as an easy-to-use tool for makers who want a dedicated hardware device for working with RFID filament tags without needing a PC during normal use.
+It is designed to run on an **ESP32-2432S028R CYD (Cheap Yellow Display)** together with a **PN532 NFC reader** and allows you to read and write filament tag information directly on a touchscreen device.
+
+BoxRFID is intended as an easy-to-use hardware tool for makers who want to create RFID tags for the QIDI Box without needing a PC during normal use.
 
 ---
 
 ## What is BoxRFID?
 
-BoxRFID is a touchscreen tool for working with RFID/NFC filament tags.
+BoxRFID is a touchscreen-based standalone device for creating and managing RFID filament tags for the **QIDI Box**.
 
-It allows you to:
+It has been tested with:
 
-- read existing RFID filament tags
-- display stored tag information on the screen
-- create or modify tag content
-- manage spool-related data in a practical device-oriented workflow
-- use a compact standalone device instead of relying only on software tools
+- **QIDI Plus 4**
+- **QIDI Box Version 1**
+- **QIDI Box Version 2**
 
-The project is especially aimed at users working with QIDI Box related tag workflows and compatible RFID tags.
+Compatibility with the **Q2** may be possible, but this has **not been tested yet**.  
+Feedback from users is welcome.
 
 ---
 
 ## Main Features
 
-- Touchscreen-based standalone operation
-- Runs on ESP32 CYD hardware
-- PN532 RFID/NFC reader support via I2C
-- Read RFID filament tags
-- Write RFID filament tags
-- Edit stored values directly on the device
-- User-friendly on-screen menus
-- Compact DIY hardware project
+- Create RFID tags for the **QIDI Box**
+- Read tags in **manual mode**
+- Read tags in **auto mode**
+- Write tags with:
+  - **manufacturer**
+  - **filament type**
+  - **color**
+- Standalone operation
+- Only a **USB power connection** is required during normal use
+- Touchscreen-based user interface
+- **6 languages supported**
+- Customizable **manufacturer list**
+- Customizable **material list**
+- Lists can be reset to **factory defaults**
+- All settings including **touch calibration** can be reset to factory settings
+- Integrated **BLE support** for iOS devices
+- Can be used as an external RFID reader/writer via Bluetooth
+- Companion iOS app already planned/in development (**currently alpha stage**)
 - Web Installer for easy firmware installation
-- 3D printable housing available separately
+- Optional 3D printable housing
 
 ---
 
@@ -44,6 +54,21 @@ Currently supported:
 
 - **ESP32-2432S028R CYD**
 - **PN532 NFC/RFID module (I2C mode)**
+
+---
+
+## Printer / Ecosystem Compatibility
+
+BoxRFID has been tested with:
+
+- **QIDI Plus 4**
+- **QIDI Box V1**
+- **QIDI Box V2**
+
+Possible compatibility:
+
+- **QIDI Q2**  
+  Not tested by the project yet. User feedback is welcome.
 
 ---
 
@@ -63,13 +88,27 @@ If needed, keep the **BOOT** button pressed while connecting the board.
 
 ---
 
+## Standalone Use
+
+After the firmware has been installed, BoxRFID can be used as a **standalone device**.
+
+For normal operation, only a **USB power source** is required, for example:
+
+- USB charger
+- power bank
+- USB port on another device
+
+No PC connection is required for normal tag reading or writing.
+
+---
+
 ## Hardware Required
 
-## Main Components
+### Main Components
 
-- 1x ESP32-2432S028R CYD display board
-- 1x PN532 NFC/RFID module
-- 1x suitable USB cable with data support
+- 1x **ESP32-2432S028R CYD** display board
+- 1x **PN532 NFC/RFID module**
+- 1x suitable **USB cable with data support**
 - jumper wires
 - optional 3D printed case
 
@@ -112,16 +151,7 @@ BoxRFID uses the PN532 in **I2C mode**.
 - **GPIO 21** → **SDA**
 - **GPIO 22** → **SCL**
 
-### Important
-
-Set the PN532 module to **I2C mode**.  
-Depending on the PN532 board version, this may require setting DIP switches or solder bridges correctly.
-
-Always verify the labeling on your specific PN532 module before powering it.
-
----
-
-## Wiring Overview
+### Wiring Overview
 
 ```text
 ESP32-2432S028R CYD    PN532
