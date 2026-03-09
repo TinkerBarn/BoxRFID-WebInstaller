@@ -144,13 +144,49 @@ GPIO 22             -> SCL
 
 ## SCREENSHOTS
 
-<img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/HomeDetailed.jpeg" height="180" alt="BoxRFID-Touch Home Screen">
-<img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/ReadTag.jpeg" height="180" alt="BoxRFID-Touch Home Screen">
-<img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/ReadManually.jpeg" height="180" alt="BoxRFID-Touch Home Screen">
-<img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/WriteMain.jpeg" height="180" alt="BoxRFID-Touch Home Screen">
-<img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/WriteMaterial.jpeg" height="180" alt="BoxRFID-Touch Home Screen">
-<img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/WriteColor.jpeg" height="180" alt="BoxRFID-Touch Home Screen">
-<img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/SetupMain.jpeg" height="180" alt="BoxRFID-Touch Home Screen">
-<img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/SetupLanguage.jpeg" height="180" alt="BoxRFID-Touch Home Screen">
-<img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/SetupManufacturer.jpeg" height="180" alt="BoxRFID-Touch Home Screen">
-<img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/SetupMaterial.jpeg" height="180" alt="BoxRFID-Touch Home Screen">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/TinkerBarn/BoxRFID-Touch/main/screenshots/HomeDetailed.jpeg" height="180" alt="Home Detailed"><br>
+      <sub>Home</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/TinkerBarn/BoxRFID-Touch/main/screenshots/ReadTag.jpeg" height="180" alt="Read Tag"><br>
+      <sub>Read Tag</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/TinkerBarn/BoxRFID-Touch/main/screenshots/ReadManually.jpeg" height="180" alt="Read Manually"><br>
+      <sub>Read Manually</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/TinkerBarn/BoxRFID-Touch/main/screenshots/WriteMain.jpeg" height="180" alt="Write Main"><br>
+      <sub>Write Main</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/TinkerBarn/BoxRFID-Touch/main/screenshots/WriteMaterial.jpeg" height="180" alt="Write Material"><br>
+      <sub>Write Material</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/TinkerBarn/BoxRFID-Touch/main/screenshots/WriteColor.jpeg" height="180" alt="Write Color"><br>
+      <sub>Write Color</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/TinkerBarn/BoxRFID-Touch/main/screenshots/SetupMain.jpeg" height="180" alt="Setup Main"><br>
+      <sub>Setup Main</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/TinkerBarn/BoxRFID-Touch/main/screenshots/SetupLanguage.jpeg" height="180" alt="Setup Language"><br>
+      <sub>Setup Language</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/TinkerBarn/BoxRFID-Touch/main/screenshots/SetupManufacturer.jpeg" height="180" alt="Setup Manufacturer"><br>
+      <sub>Setup Manufacturer</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/TinkerBarn/BoxRFID-Touch/main/screenshots/SetupMaterial.jpeg" height="180" alt="Setup Material"><br>
+      <sub>Setup Material</sub>
+    </td>
+  </tr>
+</table>
