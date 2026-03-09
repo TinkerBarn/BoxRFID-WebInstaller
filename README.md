@@ -46,7 +46,7 @@ Possible compatibility with:
 > You do **not** need to compile the firmware yourself!  
 > You can install BoxRFID-Touch directly from your browser using the Web Installer:
 >
-> **[BoxRFID-Touch – Open Web Installer](https://YOURNAME.github.io/BoxRFID-WebInstaller/)**
+> **[BoxRFID-Touch – Open Web Installer](https://tinkerbarn.github.io/BoxRFID-Touch/)**
 >
 > This is the recommended installation method for most users.
 
