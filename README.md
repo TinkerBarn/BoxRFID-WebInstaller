@@ -154,11 +154,11 @@ GPIO 22             -> SCL
     </td>
     <td align="center">
       <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/PN532.jpg" height="180" alt="Read Manually"><br>
-      <sub>PN532/sub>
+      <sub>PN532</sub>
     </td>
     <td align="center">
       <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/Back.jpeg" height="180" alt="Read Manually"><br>
-      <sub>PN532/sub>
+      <sub>Back view</sub>
     </td>
    </tr>
 </table>
