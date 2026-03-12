@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/Home.jpeg">
-    <img src="https://raw.githubusercontent.com/TinkerBarn/BoxRFID-Touch/main/screenshots/Home.jpeg" height="320" alt="BoxRFID-Touch Home Screen">
+    <img src="https://raw.githubusercontent.com/TinkerBarn/BoxRFID-Touch/main/screenshots/Front.jpeg" height="320" alt="BoxRFID-Touch Home Screen">
   </a>
 </p>
 
