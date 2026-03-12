@@ -145,19 +145,19 @@ GPIO 22             -> SCL
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/Inside.jpeg" height="180" alt="Home Detailed"><br>
+      <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/Electronic parts.jpeg" height="180" alt="Electronic parts"><br>
       <sub>Mounting</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/Connector.jpg" height="180" alt="Read Tag"><br>
+      <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/PN532.jpg" height="180" alt="PN532"><br>
       <sub>Connector</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/PN532.jpg" height="180" alt="Read Manually"><br>
+      <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/PN532I2C.jpg" height="180" alt="Set I2C"><br>
       <sub>PN532</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/Back.jpeg" height="180" alt="Read Manually"><br>
+      <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/ESP32-2432S028R.jpeg" height="180" alt="ESP32-2432S028R"><br>
       <sub>Back view</sub>
     </td>
    </tr>
