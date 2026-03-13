@@ -94,6 +94,8 @@ Possible compatibility with:
 - **QIDI Q2**  
   Not tested yet. Feedback is welcome.
 
+### If you need a Windows program, see my other project
+https://github.com/TinkerBarn/BoxRFID
 ---
 
 ## Requirements
