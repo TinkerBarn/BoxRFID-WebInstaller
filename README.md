@@ -124,9 +124,10 @@ Just connect the device, open the installer page, click **Connect**, select the 
 
 ## WIRING
 
-BoxRFID-Touch uses the PN532 in **I2C mode**.
+BoxRFID-Touch uses the PN532 RFID sensor in **I2C mode**. Don't forget to change the DIP switch on the PN532 to the I2C mode. See detailed screenshots below.
+Here you see the Pinout for connecting the PN532 RFID board to the ESP32-2432S028R.
 
-### CYD ↔ PN532
+### PINOUT CYD ↔ PN532
 
 - **3.3V** → **VCC**
 - **GND** → **GND**
@@ -142,6 +143,7 @@ GPIO 21             -> SDA
 GPIO 22             -> SCL
 ```
 
+##Overview of necessary parts 
 <table align="center">
   <tr>
     <td align="center">
@@ -154,13 +156,18 @@ GPIO 22             -> SCL
     </td>
     <td align="center">
       <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/PN532-I2C.jpeg" height="180" alt="Set to I2C"><br>
-      <sub>Set to I2C</sub>
+      <sub>Set PN532 to I2C</sub>
     </td>
     <td align="center">
       <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/ESP32-2432S028R.jpeg" height="180" alt="ESP32-2432S028R"><br>
       <sub>ESP32-2432S028R</sub>
     </td>
   </tr>
+</table>
+
+##Details how to connect the boards
+
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/Cable connection.jpeg" height="180" alt="Connect the cables"><br>
@@ -173,10 +180,6 @@ GPIO 22             -> SCL
     <td align="center">
       <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/Detail PN532.jpeg" height="180" alt="Detail view PN532"><br>
       <sub>Detail view PN532</sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/ESP32-2432S028R.jpeg" height="180" alt="ESP32-2432S028R"><br>
-      <sub>ESP32-2432S028R</sub>
     </td>
    </tr>
 </table>
