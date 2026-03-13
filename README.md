@@ -137,6 +137,7 @@ Possible compatibility with:
 
 - **3D-printed case**
   - Housing for the CYD + PN532 setup
+  - ### [Box-RFID-Touch on Makerworld](https://makerworld.com/de/models/2518866-boxrfid-case-rfid-reader-writer-for-qidi-box#profileId-2770921)
 
 - **Mounting material**
   - Screws, spacers, adhesive pads or similar accessories
