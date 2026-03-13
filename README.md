@@ -79,6 +79,8 @@ The Web Installer is designed for users who do **not** want to deal with:
 - Browser-based **Web Installer** for quick and easy installation
 - Optional **3D-printable housing**
 
+### See details on YouTube
+https://youtu.be/4cGLlr9Ckx4?is=3c7DeLp9Vy9mUeB2
 ---
 
 ## Compatibility
