@@ -146,37 +146,37 @@ GPIO 22             -> SCL
   <tr>
     <td align="center">
       <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/Electronic parts.jpeg" height="180" alt="Electronic parts"><br>
-      <sub>Mounting</sub>
+      <sub>Electronic parts</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/PN532.jpeg" height="180" alt="PN532"><br>
-      <sub>Connector</sub>
+      <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/PN532.jpeg" height="180" alt="PN532 RFID Sensor"><br>
+      <sub>PN532 RFID Sensor</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/PN532-I2C.jpeg" height="180" alt="Set I2C"><br>
-      <sub>PN532</sub>
+      <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/PN532-I2C.jpeg" height="180" alt="Set to I2C"><br>
+      <sub>Set to I2C</sub>
     </td>
     <td align="center">
       <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/ESP32-2432S028R.jpeg" height="180" alt="ESP32-2432S028R"><br>
-      <sub>Back view</sub>
+      <sub>ESP32-2432S028R</sub>
     </td>
-   </tr>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/Cable connection.jpeg" height="180" alt="Connect the cables"><br>
-      <sub>Mounting</sub>
+      <sub>Connect the cables</sub>
     </td>
     <td align="center">
       <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/Detail cable.jpeg" height="180" alt="Detail view ESP32"><br>
-      <sub>Connector</sub>
+      <sub>Detail view ESP32</sub>
     </td>
     <td align="center">
       <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/Detail PN532.jpeg" height="180" alt="Detail view PN532"><br>
-      <sub>PN532</sub>
+      <sub>Detail view PN532</sub>
     </td>
     <td align="center">
       <img src="https://github.com/TinkerBarn/BoxRFID-Touch/blob/main/screenshots/ESP32-2432S028R.jpeg" height="180" alt="ESP32-2432S028R"><br>
-      <sub>Back view</sub>
+      <sub>ESP32-2432S028R</sub>
     </td>
    </tr>
 </table>
