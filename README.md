@@ -82,8 +82,6 @@ The Web Installer is designed for users who do **not** want to deal with:
 ### See details on YouTube
 [![Watch the video](https://img.youtube.com/vi/4cGLlr9Ckx4/hqdefault.jpg)](https://youtu.be/4cGLlr9Ckx4?is=iYzOwJqUVbCeVkuv)
 
-
-https://youtu.be/4cGLlr9Ckx4?is=AtLbDWW-i36zeVVM
 ---
 
 ## Compatibility
