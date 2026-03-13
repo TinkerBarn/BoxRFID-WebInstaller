@@ -107,10 +107,15 @@ https://github.com/TinkerBarn/BoxRFID
 - **USB cable**
 - **jumper wires**
 
-### Optional
+### RFID Tags
 
-- **3D-printed enclosure**
-- mounting hardware depending on enclosure design
+- **Mifare classic 1K tags (i.e. https://www.amazon.com/BABIQT-Sticker-Classic-Self-Adhesive-Stickers/dp/B0BZRS35CT)**
+
+### BoxRFID-Touch Case
+
+- **3D-printed case**
+  - Housing for the CYD + PN532 setup
+  - ### [Box-RFID-Touch on Makerworld](https://makerworld.com/de/models/2518866-boxrfid-case-rfid-reader-writer-for-qidi-box#profileId-2770921)
 
 ---
 
@@ -134,12 +139,6 @@ https://github.com/TinkerBarn/BoxRFID
 
 - **USB cable**
   - Used for flashing and power supply
-
-### Optional parts
-
-- **3D-printed case**
-  - Housing for the CYD + PN532 setup
-  - ### [Box-RFID-Touch on Makerworld](https://makerworld.com/de/models/2518866-boxrfid-case-rfid-reader-writer-for-qidi-box#profileId-2770921)
 
 - **Mounting material**
   - Screws, spacers, adhesive pads or similar accessories
