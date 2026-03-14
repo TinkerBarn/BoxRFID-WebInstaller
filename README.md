@@ -112,7 +112,7 @@ https://github.com/TinkerBarn/BoxRFID
 
 ### RFID Tags
 
-- **Mifare classic 1K tags (i.e. https://www.amazon.com/BABIQT-Sticker-Classic-Self-Adhesive-Stickers/dp/B0BZRS35CT)**
+- **Mifare classic 1K tags (i.e. https://www.amazon.de/dp/B07GH1P2M5 or https://www.abcrfid.com/product/13-56mhz-mifare-classic-1ks50-wet-inlay-thin-tag-adhesive-sticker/?wmc-currency=EUR&country=FR&utm_source=chatgpt.com)**
 
 ### BoxRFID-Touch Case
 
